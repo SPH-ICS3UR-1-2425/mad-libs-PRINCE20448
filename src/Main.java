@@ -22,7 +22,7 @@ public class Main {
 		System.out.println("Next you will give me a weapon of choice");
 		in.nextLine();
 		String weapon = in.nextLine();
-		System.out.println(":/ " + name + ":" Why am );
+		System.out.println(":/ " + name + ": Why amss ");
 		System.out.println("Today, " + name + " slapped Logan in " + weapon +" today");
 
 	}
